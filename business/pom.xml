@@ -15,7 +15,6 @@
   <dependency>
         <groupId>com.awad</groupId>
 	    <artifactId>data</artifactId>
-	    <version>${project.version}</version>
   </dependency>
   
   </dependencies>

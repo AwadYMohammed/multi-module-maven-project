@@ -4,4 +4,9 @@
   <artifactId>multi-module-maven-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>business</module>
+  </modules>
 </project>
+<!-- creating business module
+data module -->
